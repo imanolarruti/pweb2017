@@ -5,7 +5,7 @@
 
 ## Grupo 1. Formas de ocio
 <!-- aquí el listado de miembros del grupo 1 -->
-Arruti Fernandez de Barrena, Imanol(http://imanolarruti.github.io) 
+Arruti Fernandez de Barrena, Imanol
 
 ## Grupo 2. Igualdad de género
 <!-- aquí el listado de miembros del grupo 2 -->
